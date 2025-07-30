@@ -1,12 +1,11 @@
-## Hi there 👋
+<h1 align= "center">Matter Product Studio</h1>
+</p>
+<img src="https://i.ibb.co/pj44mVyB/profile.png" />
 
-<!--
+<h1>Overview 🚀</h1>
+<p>Matter Product Studio is leveraging existing AI tools to develop custom software solutions that create real-world business impact. We partner closely with our clients to identify, build and implement full AI solutions that can deliver measurable ROI within three months.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1>Importance in Software Development 🎯</h1>
+<p>With over 6+ years experience in software analysis and design and a deep understanding of the latest IT trends and solutions, we provide customized recommendations and strategies to help you improve your operations, reduce costs, and increase efficiency.</p>
+<br>
+<p>Feel free to contact our <a href="mailto:hello@matterproductstudio.com" target="_blank"><strong>Company</strong></a>.</p>
